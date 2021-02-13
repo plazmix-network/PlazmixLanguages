@@ -13,7 +13,7 @@ lobby-scoreboard-lines:
 - ''
 - '§7www.plazmix.net'
 
-lobby-item-selectlobby-title: '§aВыбор лобби'
+lobby-item-selectlobby-title: '§aВыбор лобби &c[ПКМ]'
 lobby-item-selectlobby-lore:
 - ''
-- '§aпкм мне позуй'
+- '§aжми ежжи'
