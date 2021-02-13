@@ -9,7 +9,7 @@ lobby-scoreboard-lines:
 - '§fГруппа: {rank}'
 - ''
 - '§fУровень: §e{level}'
-- '§fОпыт: §e{xp}'
+- '§fОпыт: §e{xp}/{needxp}'
 - ''
 - '§fПеченьки: §a{cookies}'
 - '§fПлазма: §d{plazma}'
