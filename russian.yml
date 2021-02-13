@@ -2,7 +2,7 @@ lobby-teleport-fail: '§cДоступное лобби не найдено!'
 
 lobby-donater-join: '{displayName} §fподключился.'
 
-lobby-scoreboard-title: '§fpizda'
+lobby-scoreboard-title: 'pizda'
 lobby-scoreboard-lines:
 - ''
 - 'ya {name}'
