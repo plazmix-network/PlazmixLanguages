@@ -2,16 +2,16 @@ lobby-teleport-fail: '§cДоступное лобби не найдено!'
 
 lobby-donater-join: '{displayName} §fподключился.'
 
-lobby-scoreboard-title: 'pizda'
+lobby-scoreboard-title: '§d§lPLAZMIX'
 lobby-scoreboard-lines:
 - ''
-- 'ya {name}'
-- 'donate {rank}'
+- '§fНик§8: {name}'
+- '§fГруппа§8: {rank}'
 - ''
-- 'cookies {cookies}'
-- 'plazma {plazma}'
+- '§fПеченьки§8: §a{cookies}'
+- '§fПлазма§8: §d{plazma}'
 - ''
-- '§dwww.plazmix.net'
+- '§7www.plazmix.net'
 
 lobby-item-selectlobby-title: '§aВыбор лобби'
 lobby-item-selectlobby-lore:
