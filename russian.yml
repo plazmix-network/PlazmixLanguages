@@ -45,9 +45,10 @@ global-level-up:
 - 'Вы повысили уровень, теперь ваш урвоень {level}'
 - ''
 
-navigator-grief-title: '§dГриф пиздец ёбнутый'
+navigator-grief-title: '§d§lGRIEF &c&l[1.12.2]'
 navigator-grief-lore:
-- '§dрежим крутой'
-- '§dонлайн во: {online}'
 - ''
-- '§dкликай и пополняй ряди онлайна'
+- '§dРежим крутой'
+- '§dОнлайн большой: {online}'
+- ''
+- '§dДавай играй ебать'
