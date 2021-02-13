@@ -17,3 +17,17 @@ lobby-item-selectlobby-title: '§aВыбор лобби &c[ПКМ]'
 lobby-item-selectlobby-lore:
 - ''
 - '§aжми ежжи'
+
+selecterservermenu-title: 'Выбор сервера'
+selecterservermenu-lore:
+- '§fСтатус: {status}'
+- '§fОнлайн: {online}'
+- ''
+- '{click}'
+
+selecterservermenu-status-avaible: '§aДоступен'
+selecterservermenu-status-unavaible: '§cНедоступен'
+
+selecterservermenu-click-avaible: '§eНажмите, чтобы подключится!'
+selecterservermenu-click-unavaible: '§cСервер переполнен!'
+selecterservermenu-click-already: '§aВы уже находитесь тут!'
