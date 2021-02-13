@@ -45,10 +45,10 @@ global-level-up:
 - '§fВы повысили уровень до: {level}'
 - ''
 
-navigator-grief-title: '§d§lGRIEF &c&l[1.12.2]'
+navigator-grief-title: '§d§lGRIEF §c§l[1.12.2]'
 navigator-grief-lore:
 - ''
-- '§dРежим крутой'
-- '§dОнлайн большой: {online}'
+- '§fРежим крутой'
+- '§fОнлайн большой: {online}'
 - ''
-- '§dДавай играть ебать'
+- '§eДавай играть ебать'
