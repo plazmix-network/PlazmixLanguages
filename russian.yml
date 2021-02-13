@@ -1,3 +1,14 @@
 lobby-teleport-fail: '§cДоступное лобби не найдено!'
 
 lobby-donater-join: '{displayName} §fподключился.'
+
+lobby-scoreboard-title: '§fpizda'
+lobby-scoreboard-lines:
+- ''
+- 'ya {name}'
+- 'donate {rank}'
+- ''
+- 'cookies {cookies}'
+- 'plazma {plazma}'
+- ''
+- '§dwww.plazmix.net'
