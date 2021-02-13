@@ -18,7 +18,6 @@ lobby-item-selectlobby-lore:
 - ''
 - '§aжми ежжи'
 
-selecterservermenu-title: 'Выбор сервера'
 selecterservermenu-lore:
 - '§fСтатус: {status}'
 - '§fОнлайн: {online}'
