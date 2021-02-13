@@ -36,18 +36,18 @@ selecterservermenu-lore:
 selecterservermenu-status-avaible: '§aДоступен'
 selecterservermenu-status-unavaible: '§cНедоступен'
 
-selecterservermenu-click-avaible: '§eНажмите, чтобы подключится!'
-selecterservermenu-click-unavaible: '§cСервер переполнен!'
-selecterservermenu-click-already: '§aВы уже находитесь тут!'
+selecterservermenu-click-avaible: '§eНажмите, чтобы подключится.'
+selecterservermenu-click-unavaible: '§cСервер переполнен.'
+selecterservermenu-click-already: '§aВы уже находитесь тут.'
 
 global-level-up:
 - ''
-- 'вы повысили уровень, теперь ваш урвоень {level}'
+- 'Вы повысили уровень, теперь ваш урвоень {level}'
 - ''
 
-navigator-grief-title: 'Гриф пиздец'
+navigator-grief-title: '§dГриф пиздец ёбнутый'
 navigator-grief-lore:
-- 'режим крутой'
-- 'онлайн во: {online}'
+- '§dрежим крутой'
+- '§dонлайн во: {online}'
 - ''
-- 'кликай и пополняй ряди онлайна'
+- '§dкликай и пополняй ряди онлайна'
