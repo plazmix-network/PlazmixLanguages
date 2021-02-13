@@ -42,7 +42,7 @@ selecterservermenu-click-already: '§aВы уже находитесь тут.'
 
 global-level-up:
 - ''
-- '§eВы повысили уровень, теперь он больше: {level}'
+- '§fлевел ап Вы повысили уровень до: {level}'
 - ''
 
 navigator-grief-title: '§d§lGRIEF &c&l[1.12.2]'
