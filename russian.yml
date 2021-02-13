@@ -20,12 +20,12 @@ lobby-scoreboard-lines:
 lobby-item-selectlobby-title: '§aВыбор лобби §c[ПКМ]'
 lobby-item-selectlobby-lore:
 - ''
-- '§aжми ежжи'
+- '§aЖми, чтобы открыть меню.'
 
 lobby-item-navigator-title: '§aНавигатор §c[ПКМ]'
 lobby-item-navigator-lore:
 - ''
-- '§aжми ежжи'
+- '§aЖми, чтобы открыть меню.'
 
 selecterservermenu-lore:
 - '§fСтатус: {status}'
