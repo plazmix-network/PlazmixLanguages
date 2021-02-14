@@ -26,6 +26,11 @@ lobby-item-navigator-lore:
 - ''
 - '§aЖми, чтобы открыть меню.'
 
+lobby-item-gadgets-title: '§aГаджеты §c[ПКМ]'
+lobby-item-gadgets-lore:
+- ''
+- '§aЖми, чтобы открыть меню.'
+
 selecterservermenu-lore:
 - '§fСтатус: {status}'
 - '§fОнлайн: {online}'
@@ -44,6 +49,15 @@ global-level-up:
 - '§fВы повысили уровень до: {level}'
 - ''
 
+menu-arrow-back-title: '§aВернуться назад'
+menu-arrow-back-lore:
+- ' §7Вернуться в меню гаджетов'
+
+menu-arrow-next-title: '§aСледующая страница'
+menu-arrow-next-lore: ' §7Перейти на следующую страницу'
+menu-arrow-nback-title: '§aПредыдущая страница'
+menu-arrow-nback-lore: ' §7Вернуться на предыдущую страницу'
+
 navigator-grief-title: '§d§lANARCHY §c§l[1.12.2]'
 navigator-grief-lore:
 - ''
@@ -51,3 +65,234 @@ navigator-grief-lore:
 - '§fОнлайн большой: {online}'
 - ' '
 - '§eДавай играть ебать'
+
+gadgetsmenu-title: 'Гаджеты'
+
+gadgetsmenu-cancel-title: '§aОчистить текущие гаджеты'
+gadgetsmenu-cancel-lore:
+- '§7Очищает текущую активные'
+- '§7косметики.'
+- ''
+- '§eНажмите, чтобы выбрать!'
+
+gadgetsmenu-cancel-msg: '§d§lJETRIX §8| §fТекущие гаджеты были убраны'
+
+gadgetsmenu-coins-title: '§aГаджеты'
+gadgetsmenu-coins-lore:
+- '§7Магическая пыль: §d{dust}'
+- ''
+- '§7Собирайте магическую пыль и сундуки,'
+- '§7открывайте их и получайте разную'
+- '§7косметику.'
+- ''
+- '§ewww.jetrix.fun'
+
+gadgetsmenu-pets-title: '§aПитомцы'
+gadgetsmenu-pets-lore:
+- '§7Собирайте, кормите и'
+- '§7играйте со своими любимыми'
+- '§7питомцами! Они всегда будут'
+- '§7будут ходить за вами.'
+- ''
+- '§7Разблокировано: §c{current}/{max}'
+- ''
+- '§eНажмите, чтобы посмотреть!'
+gadgetsmenu-morphs-title: '§aПревращения'
+gadgetsmenu-morphs-lore:
+- '§7Трансформация!'
+- '§7Вы превратитесь в любого моба,'
+- '§7и все видят вас в облике моба.'
+- ''
+- '§7Разблокировано: §c{current}/{max}'
+- ''
+- '§eНажмите, чтобы посмотреть!'
+gadgetsmenu-gadgets-title: '§aГаджеты'
+gadgetsmenu-gadgets-lore:
+- '§7Всегда хотели, чтобы ваши'
+- '§7друзья обзавидовались,'
+- '§7увидев у вас батут или'
+- '§7просто бросая в них бомбы?'
+- '§7Тогда гаджеты - то что вам'
+- '§7надо!'
+- ''
+- '§7Разблокировано: §c{current}/{max}'
+- ''
+- '§eНажмите, чтобы посмотреть!'
+gadgetsmenu-particles-title: '§aЧастицы'
+gadgetsmenu-particles-lore:
+- '§7Создает красивые частицы,'
+- '§7которые окружают вас и выделяют'
+- '§7среди толпы!'
+- ''
+- '§7Разблокировано: §c{current}/{max}'
+- ''
+- '§eНажмите, чтобы посмотреть!'
+gadgetsmenu-costumes-title: '§aМиниатюрки'
+gadgetsmenu-costumes-lore:
+- '§7Собирайте миниатюрных персонажей'
+- '§7и одевайте их в лобби, чтобы'
+- '§7они летали вместе с вами по всем'
+- '§7лобби!'
+- ''
+- '§7Разблокировано: §c{current}/{max}'
+- ''
+- '§eНажмите, чтобы посмотреть!'
+
+gadgetsmenu-status-not:
+- '§eВы можете получить эту косметику'
+- '§eиз §bСундуков§e.'
+- ''
+- '§cУ вас нету данной косметики!'
+gadgetsmenu-status-change:
+- '§eНажмите, чтобы выбрать!'
+gadgetsmenu-status-have:
+- '§aНажмите, чтобы убрать!'
+
+gadgetsmenu-example-lore:
+- ''
+- '§7Редкость: {rare}'
+- ''
+
+gadgetsmenu-rarity-common: '§aОБЫЧНЫЙ'
+gadgetsmenu-rarity-rare: '§eРЕДКИЙ'
+gadgetsmenu-rarity-epic: '§5ЭПИЧЕСКИЙ'
+gadgetsmenu-rarity-legendary: '§6ЛЕГЕНДАРНЫЙ'
+
+gadgetsmenu-pets-cat-title: 'Кот'
+gadgets-pets-cat-customname: '§aКот {player}'
+gadgetsmenu-pets-dog-title: 'Собака'
+gadgets-pets-dog-customname: '§aСобака {player}'
+gadgetsmenu-pets-chicken-title: 'Курица'
+gadgets-pets-chicken-customname: '§aКурица {player}'
+gadgetsmenu-pets-pig-title: 'Свинья'
+gadgets-pets-pig-customname: '§aСвинья {player}'
+gadgetsmenu-pets-rabbit-title: 'Кролик'
+gadgets-pets-rabbit-customname: '§aКролик {player}'
+gadgetsmenu-pets-villager-title: 'Житель'
+gadgets-pets-villager-customname: '§aЖитель {player}'
+gadgetsmenu-pets-sheep-title: 'Овца'
+gadgets-pets-sheep-customname: '§aОвца {player}'
+
+gadgetsmenu-morph-pig-title: 'Свинья'
+gadgetsmenu-morph-cow-title: 'Корова'
+gadgetsmenu-morph-enderman-title: 'Эндерман'
+gadgetsmenu-morph-chicken-title: 'Курица'
+gadgetsmenu-morph-spider-title: 'Паук'
+gadgetsmenu-morph-sheep-title: 'Овца'
+gadgetsmenu-morph-creeper-title: 'Крипер'
+gadgetsmenu-morph-ifrit-title: 'Ифрит'
+gadgetsmenu-morph-irongolem-title: 'Железный Голем'
+
+gadgetsmenu-gadget-batblaster-title: 'Бластер'
+gadgetsmenu-gadget-paintballgun-title: 'Пейнтбольный Бластер'
+gadgetsmenu-gadget-nyancat-title: 'Ньян Кэт'
+gadgetsmenu-gadget-sims-title: 'Симс'
+gadgetsmenu-gadget-tsunami-title: 'Цунами'
+gadgetsmenu-gadget-iceblaster-title: 'Ледяной Бластер'
+gadgetsmenu-gadget-ghostattack-title: 'Привиденья'
+gadgetsmenu-gadget-cannon-title: 'Пушка'
+
+gadgetsmenu-particle-mage-title: 'Маг'
+gadgetsmenu-particle-magicalspiral-title: 'Магическая Спираль'
+gadgetsmenu-particle-goldenaura-title: 'Золотая Аура'
+gadgetsmenu-particle-bloodhelix-title: 'Кровавая Спираль'
+gadgetsmenu-particle-santahat-title: 'Шапка Санты'
+gadgetsmenu-particle-flamering-title: 'Огненная Обертка'
+gadgetsmenu-particle-cloud-title: 'Гроза'
+gadgetsmenu-particle-yingyang-title: 'Инь-Янь'
+gadgetsmenu-particle-wings-title: 'Крылья'
+
+gadgetsmenu-miniature-panda-title: 'Панда'
+gadgetsmenu-miniature-ore-title: 'Руда'
+gadgetsmenu-miniature-mage-title: 'Маг'
+gadgetsmenu-miniature-dracula-title: 'Дракула'
+gadgetsmenu-miniature-dragon-title: 'Дракон'
+gadgetsmenu-miniature-ghost-title: 'Призрак'
+gadgetsmenu-miniature-herobrine-title: 'Херобрин'
+gadgetsmenu-miniature-itzdarth-title: 'ItzDarth_'
+gadgetsmenu-miniature-flardiev-title: 'Flardiev'
+
+gadgetsmenu-petsmenu-title: 'Питомцы'
+gadgetsmenu-morphmenu-title: 'Превращения'
+gadgetsmenu-gadgetmenu-title: 'Гаджеты'
+gadgetsmenu-particlemenu-title: 'Частицы'
+gadgetsmenu-miniaturemenu-title: 'Миниатюрки'
+
+gadgetsmenu-gadgetmenu-pkm: '§7(ПКМ)'
+gadgetsmenu-gadget-cooldown: '§d§lJETRIX §8| §fВы сможете использовать через §a{s} сек.'
+
+gadgetsmenu-equip: '§d§lJETRIX §8| §fВы экипировали {gadget}'
+gadgetsmenu-dequip: '§d§lJETRIX §8| §fВы убрали {gadget}'
+
+treasure-bossbar-text: '§fОсталось §a{sec} §fсекунд'
+
+treasuremenu-title: 'Меню сундуков'
+
+treasuremenu-common-title: '§aОбычный сундук'
+treasuremenu-common-lore:
+- '§7Обычный сундук, из которого'
+- '§7можно получить гаджеты и'
+- '§7небольшое кол-во магической пыли'
+- '§7и опыта'
+- ''
+- '§cВнимание! При получении уже имеющегося'
+- '§cгаджета вы получите 120 магической пыли!'
+- ''
+- '§7Доступно сундуков: §a{key}'
+- ''
+- '§eНажмите, чтобы открыть!'
+
+treasuremenu-rare-title: '§eРедкий сундук'
+treasuremenu-rare-lore:
+- '§7Редкий сундук, из которого'
+- '§7можно получить гаджеты и'
+- '§7умеренное кол-во магической пыли'
+- '§7и опыта'
+- ''
+- '§cВнимание! При получении уже имеющегося'
+- '§cгаджета вы получите 350 магической пыли!'
+- ''
+- '§7Доступно сундуков: §a{key}'
+- ''
+- '§eНажмите, чтобы открыть!'
+
+treasuremenu-mythic-title: '§dМагический сундук'
+treasuremenu-mythic-lore:
+- '§7Магический сундук, из которого'
+- '§7можно получить гаджеты и'
+- '§7большое кол-во магической пыли'
+- '§7и опыта'
+- ''
+- '§cВнимание! При получении уже имеющегося'
+- '§cгаджета вы получите 500 магической пыли!'
+- ''
+- '§7Доступно сундуков: §a{key}'
+- ''
+- '§eНажмите, чтобы открыть!'
+
+treasuremenu-shop-title: '§aМагазин сундуков'
+treasuremenu-shop-lore:
+- '§7Магическая пыль может быть'
+- '§7потрачена на сундуки, из'
+- '§7которых можно получить'
+- '§7различную косметику.'
+- ''
+- '§7Магическая пыль: §d{dust}'
+- ''
+- '§eНажмите, чтобы открыть!'
+
+treasureshop-lore:
+- ''
+- '§7Стоимость: §d{cost}'
+- ''
+- '§7У вас: §a{case}'
+- ''
+- '§eНажмите, чтобы купить!'
+
+treasureshop-title: 'Магазин сундуков'
+
+treasurechest-opened: '§d§lJETRIX §8| §fДанный сундук уже открывает другой игрок'
+treasurechest-not: '§d§lJETRIX §8| §fУ вас нету данных сундуков'
+
+treasurechest-notdust: '§d§lJETRIX §8| §fУ вас недостаточно магической пыли'
+treasurechest-buy: '§d§lJETRIX §8| §fВы успешно купили {case}'
