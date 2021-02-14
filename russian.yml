@@ -293,6 +293,10 @@ treasureshop-lore:
 - ''
 - '§eНажмите, чтобы купить!'
 
+treasureshop-info-title: '§aинфа'
+treasureshop-info-lore:
+- '§7пизда инфа {dust}'
+
 treasureshop-title: 'Магазин сундуков'
 
 treasurechest-opened: '§d§lPLAZMIX §8| §fДанный сундук уже открывает другой игрок'
