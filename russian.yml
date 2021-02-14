@@ -75,17 +75,17 @@ gadgetsmenu-cancel-lore:
 - ''
 - '§eНажмите, чтобы выбрать!'
 
-gadgetsmenu-cancel-msg: '§d§lJETRIX §8| §fТекущие гаджеты были убраны'
+gadgetsmenu-cancel-msg: '§d§lPLAZMIX §8| §fТекущие гаджеты были убраны'
 
 gadgetsmenu-coins-title: '§aГаджеты'
 gadgetsmenu-coins-lore:
-- '§7Магическая пыль: §d{dust}'
+- '§7Печеньки: §d{dust}'
 - ''
-- '§7Собирайте магическую пыль и сундуки,'
+- '§7Собирайте печеньки ь и сундуки,'
 - '§7открывайте их и получайте разную'
 - '§7косметику.'
 - ''
-- '§ewww.jetrix.fun'
+- '§ewww.plazmix.net'
 
 gadgetsmenu-pets-title: '§aПитомцы'
 gadgetsmenu-pets-lore:
@@ -219,10 +219,10 @@ gadgetsmenu-particlemenu-title: 'Частицы'
 gadgetsmenu-miniaturemenu-title: 'Миниатюрки'
 
 gadgetsmenu-gadgetmenu-pkm: '§7(ПКМ)'
-gadgetsmenu-gadget-cooldown: '§d§lJETRIX §8| §fВы сможете использовать через §a{s} сек.'
+gadgetsmenu-gadget-cooldown: '§d§lPLAZMIX §8| §fВы сможете использовать через §a{s} сек.'
 
-gadgetsmenu-equip: '§d§lJETRIX §8| §fВы экипировали {gadget}'
-gadgetsmenu-dequip: '§d§lJETRIX §8| §fВы убрали {gadget}'
+gadgetsmenu-equip: '§d§lPLAZMIX §8| §fВы экипировали {gadget}'
+gadgetsmenu-dequip: '§d§lPLAZMIX §8| §fВы убрали {gadget}'
 
 treasure-bossbar-text: '§fОсталось §a{sec} §fсекунд'
 
@@ -232,11 +232,11 @@ treasuremenu-common-title: '§aОбычный сундук'
 treasuremenu-common-lore:
 - '§7Обычный сундук, из которого'
 - '§7можно получить гаджеты и'
-- '§7небольшое кол-во магической пыли'
+- '§7небольшое кол-во печенек'
 - '§7и опыта'
 - ''
 - '§cВнимание! При получении уже имеющегося'
-- '§cгаджета вы получите 120 магической пыли!'
+- '§cгаджета вы получите 120 печенек!'
 - ''
 - '§7Доступно сундуков: §a{key}'
 - ''
@@ -246,11 +246,11 @@ treasuremenu-rare-title: '§eРедкий сундук'
 treasuremenu-rare-lore:
 - '§7Редкий сундук, из которого'
 - '§7можно получить гаджеты и'
-- '§7умеренное кол-во магической пыли'
+- '§7умеренное кол-во печенек.'
 - '§7и опыта'
 - ''
 - '§cВнимание! При получении уже имеющегося'
-- '§cгаджета вы получите 350 магической пыли!'
+- '§cгаджета вы получите 350 печенек!'
 - ''
 - '§7Доступно сундуков: §a{key}'
 - ''
@@ -260,11 +260,11 @@ treasuremenu-mythic-title: '§dМагический сундук'
 treasuremenu-mythic-lore:
 - '§7Магический сундук, из которого'
 - '§7можно получить гаджеты и'
-- '§7большое кол-во магической пыли'
+- '§7большое кол-во печенек'
 - '§7и опыта'
 - ''
 - '§cВнимание! При получении уже имеющегося'
-- '§cгаджета вы получите 500 магической пыли!'
+- '§cгаджета вы получите 500 печенек!'
 - ''
 - '§7Доступно сундуков: §a{key}'
 - ''
@@ -272,12 +272,12 @@ treasuremenu-mythic-lore:
 
 treasuremenu-shop-title: '§aМагазин сундуков'
 treasuremenu-shop-lore:
-- '§7Магическая пыль может быть'
+- '§7печеньки могут быть'
 - '§7потрачена на сундуки, из'
 - '§7которых можно получить'
 - '§7различную косметику.'
 - ''
-- '§7Магическая пыль: §d{dust}'
+- '§7Печеньки: §d{dust}'
 - ''
 - '§eНажмите, чтобы открыть!'
 
@@ -291,8 +291,8 @@ treasureshop-lore:
 
 treasureshop-title: 'Магазин сундуков'
 
-treasurechest-opened: '§d§lJETRIX §8| §fДанный сундук уже открывает другой игрок'
-treasurechest-not: '§d§lJETRIX §8| §fУ вас нету данных сундуков'
+treasurechest-opened: '§d§lPLAZMIX §8| §fДанный сундук уже открывает другой игрок'
+treasurechest-not: '§d§lPLAZMIX §8| §fУ вас нету данных сундуков'
 
-treasurechest-notdust: '§d§lJETRIX §8| §fУ вас недостаточно магической пыли'
-treasurechest-buy: '§d§lJETRIX §8| §fВы успешно купили {case}'
+treasurechest-notdust: '§d§lPLAZMIX §8| §fУ вас недостаточно печенек'
+treasurechest-buy: '§d§lPLAZMIX §8| §fВы успешно купили {case}'
