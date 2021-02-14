@@ -281,6 +281,10 @@ treasuremenu-shop-lore:
 - ''
 - '§eНажмите, чтобы открыть!'
 
+treasuremenu-info-title: '§aинфа'
+treasuremenu-info-lore:
+- '§7пизда инфа {dust}'
+
 treasureshop-lore:
 - ''
 - '§7Стоимость: §d{cost}'
