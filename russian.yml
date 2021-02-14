@@ -296,3 +296,7 @@ treasurechest-not: '§d§lPLAZMIX §8| §fУ вас нету данных сун
 
 treasurechest-notdust: '§d§lPLAZMIX §8| §fУ вас недостаточно печенек'
 treasurechest-buy: '§d§lPLAZMIX §8| §fВы успешно купили {case}'
+
+treasurechest-holo-title:
+- '§bСундук удачи'
+- '§7Нажмите, чтобы открыть'
