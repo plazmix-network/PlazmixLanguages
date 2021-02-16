@@ -379,3 +379,25 @@ donatemenu-f-lore:
 - '§7Приобрести донат можно на сайте: §dwww.plazmix.net'
 
 donatemenu-click: '§fПриобрести донат можно на сайте: §dwww.plazmix.net'
+
+api-help-exists:
+- '§fВаш API-ключ: §c{key} §7(кликни, чтобы скопировать)'
+- '§fКоличество максимальных запросов: §a{max}'
+- '§fБольше информации о API: §dwww.plazmix.net/api'
+- ''
+- '§d/api recreate §f- пересоздает API-ключ'
+api-help-notexists:
+- '§fВаш API-ключ: §cНЕТУ'
+- '§fБольше информации о API: §dwww.plazmix.net/api'
+- ''
+- '§d/api create §f- создает API-ключ'
+
+api-key-already: 'У вас уже есть созданный API-ключ'
+api-key-create:
+- 'Вы успешно создали ключ'
+- '§c{key} §7(кликните, чтобы скопировать)'
+
+api-key-note: 'У вас нету API-ключа. Создайте его'
+api-key-recreate:
+- 'Вы успешно пересоздали ключ'
+- '§c{key} §7(кликните, чтобы скопировать)'
