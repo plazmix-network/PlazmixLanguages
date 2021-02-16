@@ -16,6 +16,11 @@ lobby-scoreboard-lines:
 - ''
 - '§7www.plazmix.net'
 
+lobby-item-info-title: '§aИнформация §c[ПКМ]'
+lobby-item-info-lore:
+- ''
+- '§aЖми, чтобы открыть меню.'
+
 lobby-item-selectlobby-title: '§aВыбор лобби §c[ПКМ]'
 lobby-item-selectlobby-lore:
 - ''
