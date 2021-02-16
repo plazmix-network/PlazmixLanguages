@@ -328,25 +328,30 @@ treasurechest-holo-title:
 profilemenu-title: 'Профиль'
 profilemenu-profile-title: 'Ваша информация'
 profilemenu-profile-lore:
-- 'пизда смотри кароче это ты: {name}'
-- 'сматри а тут ты данат, котоырй сука нужно купить: {rank}'
-- 'воу а эта плазма, ебать данать: {plazma}'
-- 'печеньки, их обменивают на гаджеты и хуйня короче хуита: {cookies}'
 - ''
-- 'ЕБАТЬ ЭТО УРОВЕНЬ СМАТРИ ТЫ L: {level}'
-- 'АХУЕТЬ А ТЫ СМАТРИ У ТИБЯ {xp} ОПЫТА НА ЧТОБЫ'
-- 'СТАТЬ ЕЩЕ ЛУЧШЕ И ЗАДАНАТИТЬ {nextxp}'
+- '§7Ваш ник: {name}'
+- '§7Ваша группа: {rank}'
+- '§7Количество плазмы: {plazma}'
+- '§7Количество печенек: {cookies}'
 - ''
-- 'низнаю зачем эта паласа идиотизма, но она тут есть'
-- '{bar} §a{percent}'
+- '§7Уровень: {level}'
+- '§7Опыт: {xp}/{nextxp}'
+- '§7Полоса прогресса уровня: {bar} §a{percent}'
 - ''
-- 'ты все еще не задонатил? так донать юыстрее ты жде виджишь'
-- 'сколько я много сделал на сервере сука. Я гей'
 
 profilemenu-donate-title: 'Донат'
 profilemenu-donate-lore:
-- 'СМАРИ ЕБАТЬ ДАНАТЬ НАХУЙ КЛОИКАЙ БЫСТРЕЕ СУКА БЛЯТЬ'
-- 'АХУЕТЬ СКИДКИ 90% Я ПИДОРАС'
+- ''
+- '§fНажмите, чтобы открыть список привилегий.'
+- ''
+- '§dПлазма§f - это §bдонат-валюта §fсервера, за неё вы можете купить'
+- '§fразличные новые §aвозможности на выживаниях.'
+- ''
+- '§fКоличество §dплазмы §fможно увидеть в скорборде,'
+- '   §f[это справа на вашем экране в игре].'
+ - ''
+- '§fПополнить баланс и приобрести привилегию можно на сайте:'
+ - '            §dwww.plazmix.net'    
 
 profilemenu-settings-title: 'Настройки по приколу'
 profilemenu-settings-lore:
@@ -364,20 +369,20 @@ donatemenu-b-lore:
 - 'b'
 - ''
 - 'нажми и купи'
-donatemenu-c-title: 'c'
-donatemenu-c-lore:
+donatemenu-a-title: 'c'
+donatemenu-a-lore:
 - 'c'
 - ''
 - 'нажми и купи'
-donatemenu-e-title: 'e'
-donatemenu-e-lore:
+donatemenu-a-title: 'e'
+donatemenu-a-lore:
 - 'e'
 - ''
 - 'нажми и купи'
-donatemenu-f-title: 'f'
-donatemenu-f-lore:
+donatemenu-a-title: 'f'
+donatemenu-a-lore:
 - 'f'
 - ''
 - 'нажми и купи'
 
-donatemenu-click: 'пакупай данат на www.plazmix.huy'
+donatemenu-click: '§fПриобрести донат можно на сайте: §dwww.plazmix.net'
