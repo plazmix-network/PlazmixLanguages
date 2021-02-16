@@ -36,6 +36,16 @@ lobby-item-gadgets-lore:
 - ''
 - '§aЖми, чтобы открыть меню.'
 
+hider-hide-item-title: '§aСкрыть игроков §7[ПКМ]'
+hider-hide-item-lore:
+- '§7Нажмите, чтобы скрыть игроков'
+hider-show-item-title: '§aПоказать игроков §7[ПКМ]'
+hider-show-item-lore:
+- '§7Нажмите, чтобы показать игроков'
+hider-hide: '§dpizda §8| §fВсе игроки скрыты'
+hider-show: '§dpizda §8| §fВсе игроки показаны'
+
+
 selecterservermenu-lore:
 - '§fСтатус: {status}'
 - '§fОнлайн: {online}'
