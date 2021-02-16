@@ -329,7 +329,7 @@ profilemenu-title: '§8Профиль'
 profilemenu-profile-title: '§aПрофиль'
 profilemenu-profile-lore:
 - ''
-- '§7Ваш ник: {name}'
+- '§7Ваш никнейм: {name}'
 - '§7Ваша группа: {rank}'
 - '§7Количество плазмы: §d{plazma}'
 - '§7Количество печенек: §a{cookies}'
