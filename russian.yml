@@ -5,7 +5,7 @@ lobby-donater-join: '{displayName} §fподключился.'
 lobby-scoreboard-title: '§d§lPLAZMIX'
 lobby-scoreboard-lines:
 - ''
-- '§fНик: {name}'
+- '§fНикнейм: {name}'
 - '§fГруппа: {rank}'
 - ''
 - '§fУровень: §e{level}'
