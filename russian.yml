@@ -325,8 +325,8 @@ treasurechest-holo-title:
 - '§bСундук удачи'
 - '§7Нажмите, чтобы открыть'
 
-profilemenu-title: '§aПрофиль'
-profilemenu-profile-title: 'Ваша информация'
+profilemenu-title: '§8Профиль'
+profilemenu-profile-title: '§aПрофиль'
 profilemenu-profile-lore:
 - ''
 - '§7Ваш ник: {name}'
