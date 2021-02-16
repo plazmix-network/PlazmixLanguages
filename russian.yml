@@ -319,3 +319,60 @@ treasurechest-buy: '§d§lPLAZMIX §8| §fВы успешно купили {case
 treasurechest-holo-title:
 - '§bСундук удачи'
 - '§7Нажмите, чтобы открыть'
+
+profilemenu-title: 'Профиль'
+profilemenu-profile-title: 'Ваша информация'
+profilemenu-profile-lore:
+- 'пизда смотри кароче это ты: {name}'
+- 'сматри а тут ты данат, котоырй сука нужно купить: {rank}'
+- 'воу а эта плазма, ебать данать: {plazma}'
+- 'печеньки, их обменивают на гаджеты и хуйня короче хуита: {cookies}'
+- ''
+- 'ЕБАТЬ ЭТО УРОВЕНЬ СМАТРИ ТЫ L: {level}'
+- 'АХУЕТЬ А ТЫ СМАТРИ У ТИБЯ {xp} ОПЫТА НА ЧТОБЫ'
+- 'СТАТЬ ЕЩЕ ЛУЧШЕ И ЗАДАНАТИТЬ {nextxp}'
+- ''
+- 'низнаю зачем эта паласа идиотизма, но она тут есть'
+- '{bar} §a{percent}'
+- ''
+- 'ты все еще не задонатил? так донать юыстрее ты жде виджишь'
+- 'сколько я много сделал на сервере сука. Я гей'
+
+profilemenu-donate-title: 'Донат'
+profilemenu-donate-lore:
+- 'СМАРИ ЕБАТЬ ДАНАТЬ НАХУЙ КЛОИКАЙ БЫСТРЕЕ СУКА БЛЯТЬ'
+- 'АХУЕТЬ СКИДКИ 90% Я ПИДОРАС'
+
+profilemenu-settings-title: 'Настройки по приколу'
+profilemenu-settings-lore:
+- 'бессмысленная хрень, которая будет просто ПО ПРИКОЛУ'
+- 'производить звук..............'
+
+donatemenu-title: 'пизда'
+donatemenu-a-title: 'a'
+donatemenu-a-lore:
+- 'a'
+- ''
+- 'нажми и купи'
+donatemenu-b-title: 'b'
+donatemenu-b-lore:
+- 'b'
+- ''
+- 'нажми и купи'
+donatemenu-a-title: 'c'
+donatemenu-a-lore:
+- 'c'
+- ''
+- 'нажми и купи'
+donatemenu-a-title: 'e'
+donatemenu-a-lore:
+- 'e'
+- ''
+- 'нажми и купи'
+donatemenu-a-title: 'f'
+donatemenu-a-lore:
+- 'f'
+- ''
+- 'нажми и купи'
+
+donatemenu-click: 'пакупай данат на www.plazmix.huy'
