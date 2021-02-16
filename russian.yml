@@ -23,7 +23,7 @@ lobby-item-info-lore:
 
 lobby-item-selectlobby-title: '§aВыбор лобби §c[ПКМ]'
 lobby-item-selectlobby-lore:
-- ''
+- '§a '
 - '§aЖми, чтобы открыть меню.'
 
 lobby-item-navigator-title: '§aНавигатор §c[ПКМ]'
