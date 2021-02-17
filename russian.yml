@@ -434,5 +434,17 @@ friend-online:
 - '§eНажмите, чтобы написать в ЛС'
 
 friend-send-msg: 'Нажмите, чтобы написать в лс {player}'
+friend-notonline: 'пендос не в сети'
 
+friend-add-name: 'Вы не можете добавить себя в друзья'
 friend-add-already: 'Вы уже отправили запрос игроку на дружбу'
+friend-add-send: 'Вы отправили запрос дружбы {player}'
+friend-add-send-accepter:
+- 'пиздец ты получил новый запрос о дружбе, ебать я в ахуе {inviter}'
+- '{accept}§aчекай, нажми СЮДА и ебать я твой новый друк (CLICK BLYAY)'
+- '{deny}§cсмари нажимаешь СЮДА и шлем нахуй этолшл чела типа ебать ахуел пендос'
+
+friend-accept-not: 'У вас нету запроса дружбы от данного игрока'
+friend-accept-time: 'Время на запрос дружбы истек'
+friend-accept-success: 'Вы приняли запрос дружбы от {player}'
+friend-accept-success-inviter: '{player} §fпринял ваш запрос на дружбу'
