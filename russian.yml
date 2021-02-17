@@ -413,12 +413,13 @@ api-key-recreate:
 - '§c{key} §7(кликните, чтобы скопировать)'
 
 friend-help:
-- 'списак друзей да'
-- '/f list'
-- '/f add/invite [игрок]'
-- '/f remove/kick [игрок]'
-- '/f accept [игрок]'
-- '/f deny [игрок]'
+- '§fПомощь:'
+- ''
+- ' §7/f list'
+- ' §7/f add [игрок]'
+- ' §7/f kick [игрок]'
+- ' §7/f accept [игрок]'
+- ' §7/f deny [игрок]'
 
 friend-offline:
 - ''
