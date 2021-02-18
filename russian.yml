@@ -464,8 +464,8 @@ guild-not-help:
 
 guild-help:
 - 'ныхуя кароче чекай ты в гильде и тут дахуя всиго'
-- '/guild transfer [nick]'
 - '/guild promote [nick]'
+- '/guild demote [nick]'
 - '/guild invite [nick]'
 - '/guild accept [guild]'
 - '/guild deny [guild]'
@@ -478,6 +478,33 @@ guild-help:
 - '/guild delete [name]'
 
 guild-already: 'Вы уже состоите в гильдии'
+guild-not-already: 'блять пацанчик не в гильдии, просто бомж'
+
 guild-create-player: 'Вы должны быть митиором и выше чтобы ебать всех в рот'
 guild-create-lenght: 'имя гильдии должно быть не меньше 3 и не больше 16, я в ахуе чо ты такой широкий блыть'
+guild-create-already-name: 'ебать а кто то гениальней и уже создал такое имя'
 guild-create-success: 'ахуеть гений создал гильдию §e{guild}'
+
+guild-invite-you: 'нахуя снбя писать сука'
+guild-invite-not: 'ты не можешь инвайтать пидорасов'
+guild-invite-already: 'Вы уже отправили запрос игроку на инвайт гильдии'
+guild-invite-already-guild: 'этот чел уже в гильдии'
+guild-invite-send: 'вы отправили инвайт в гильду пидорасу {target}'
+guild-invite-notice: 'Гильдия > {inviter} инвайтнул {accepter} в гильду'
+guild-invite-send-accepter:
+- 'нихуя каорое го в гильдию {guild}, а пригласил {inviter}'
+- '{accept}§aчкликаем и заходим в ГЕЙ клуб'
+- '{deny}§cесли ты натурал то сюда'
+
+guild-accept-guild: 'вы уже в гильдии'
+guild-accept-not: 'У вас нету запроса гильдии от данного игрока'
+guild-accept-time: 'Время на запрос гильдии истек'
+guild-accept-success: 'Вы приняли запрос гильдии от {player}'
+guild-accept-success-inviter: '{player} §fпринял ваш запрос на дружбу'
+
+guild-promote-notleader: 'пасматри на уебка, без лидерки сидит клоун ебучий ахахахахахахахахахахахахах'
+guild-promote-you: 'одиночество - хуево, но повышать самогшо себя не стоит'
+guild-promote-playeralof: 'а челик то уже насосал на офицера'
+guild-promote-playernt: 'пендос не у тебя в гильдии, пошел нахзуй'
+guild-promote-success: 'вы повысили {target} до Афицера'
+guild-promote-success-target: 'ебать ты насосал держи тебе офицера от {leader}'
