@@ -502,6 +502,9 @@ guild-accept-time: 'Время на запрос гильдии истек'
 guild-accept-success: 'Вы приняли запрос гильдии от {player}'
 guild-accept-success-inviter: '{player} §fпринял ваш запрос на дружбу'
 
+guild-deny-success: 'вы отклонили запрос в гильдию от пидораса {inviter}'
+guild-deny-success-inviter: '{accepter} §fпаслал тебя нахуй и аткланил запрос'
+
 guild-promote-notleader: 'пасматри на уебка, без лидерки сидит клоун ебучий ахахахахахахахахахахахахах'
 guild-promote-you: 'одиночество - хуево, но повышать самогшо себя не стоит'
 guild-promote-playeralof: 'а челик то уже насосал на офицера'
