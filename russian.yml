@@ -449,8 +449,35 @@ friend-accept-time: 'Время на запрос дружбы истек'
 friend-accept-success: 'Вы приняли запрос дружбы от {player}'
 friend-accept-success-inviter: '{player} §fпринял ваш запрос на дружбу'
 
+friend-manyfriends: 'Вы достигли лимита друзей, ваш лимит {limit}'
+friend-manyfriends-target: 'У данного игрока достигнут лимит пендосов'
+
 friend-deny-g: 'Вы отклонили запрос {target} §fв друзья'
 friend-deny-sender: '{target} §fотклонил запрос на дружбу'
 
 friend-kick-not: 'У вас нету данного игрока в друщьях'
 friend-kick-success: 'Вы удалили {target} §fиз друзей'
+
+guild-not-help:
+- 'Кароче пизда саздаешь гильди. от митиора и ебать ты гений:'
+- '/guild create [name]'
+
+guild-help:
+- 'ныхуя кароче чекай ты в гильде и тут дахуя всиго'
+- '/guild transfer [nick]'
+- '/guild promote [nick]'
+- '/guild invite [nick]'
+- '/guild accept [guild]'
+- '/guild deny [guild]'
+- '/guild kick [nick]'
+- '/guild deposit [summa]'
+- '/guild bank'
+- '/guild tag [5 symbols]'
+- '/guild chat (/gc) [msg]'
+- '/guild menu'
+- '/guild delete [name]'
+
+guild-already: 'Вы уже состоите в гильдии'
+guild-create-player: 'Вы должны быть митиором и выше чтобы ебать всех в рот'
+guild-create-lenght: 'имя гильдии должно быть не меньше 3 и не больше 16, я в ахуе чо ты такой широкий блыть'
+guild-create-success: 'ахуеть гений создал гильдию §e{guild}'
