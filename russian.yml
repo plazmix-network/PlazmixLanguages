@@ -497,10 +497,11 @@ guild-invite-send-accepter:
 - '{deny}§cесли ты натурал то сюда'
 
 guild-accept-guild: 'вы уже в гильдии'
-guild-accept-not: 'У вас нету запроса гильдии от данного игрока'
+guild-accept-not: 'У вас нету запроса гильдии'
 guild-accept-time: 'Время на запрос гильдии истек'
 guild-accept-success: 'Вы приняли запрос гильдии от {player}'
 guild-accept-success-inviter: '{player} §fпринял ваш запрос на дружбу'
+guild-accept-not-create-guild: 'Данной гильдии не существует'
 
 guild-deny-success: 'вы отклонили запрос в гильдию от пидораса {inviter}'
 guild-deny-success-inviter: '{accepter} §fпаслал тебя нахуй и аткланил запрос'
