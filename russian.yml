@@ -544,6 +544,7 @@ guild-tag-lenght: 'размер тега должен быть не меньше
 guild-tag-rechange-money: 'На счете гильдии не достаточно 200,000 печенек для смены тега'
 guild-tag-money: 'На счете гильдии не достаточно 2,000,000 печенек для создание тега'
 guild-tag-success: 'Вы установили тег {tag}'
+guild-tag-color: 'твой колор код не православный, убери его чорт!'
 
 guild-menu-info-title: 'Информация о гильдии'
 guild-menu-info-lore:
