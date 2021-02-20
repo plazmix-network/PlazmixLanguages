@@ -523,7 +523,7 @@ guild-deposit-notnumeric: 'пидорас введи ты уже сука чис
 guild-deposit-notsum: 'у тя печенек меньше чем ты ввел'
 guild-deposit-success: 'спасиба за вложенный капитал в {sum} печенек а теперь иди нахзуй отсюда бьлятиь'
 
-gc-argsNull: '/gc [сообщзнение]'
+gc-argsNull: '/gc [сообщнение]'
 gc-format: 'Гильдия > {guildRank} {player}: §f{msg}'
 
 guild-menu-info-title: 'Информация о гильдии'
