@@ -513,6 +513,19 @@ guild-promote-playernt: 'пендос не у тебя в гильдии, пош
 guild-promote-success: 'вы повысили {target} до Афицера'
 guild-promote-success-target: 'ебать ты насосал держи тебе офицера от {leader}'
 
+guild-demote-you: 'бля ебать ты дебил нахуй, понижать самого себя нахуй'
+guild-demote-playermember: 'челик уже на дне сидит дрочит на офицерку нахуй его еще ниже понижать'
+guild-demote-success: 'вы понизили {target} до участника'
+guild-demote-success-target: 'ебать ты пересосал и тебя понизил на участника благодаря {leader}'
+
+guild-deposit-dupe: 'не пытайся взламать маю систему пидарас'
+guild-deposit-notnumeric: 'пидорас введи ты уже сука число ебанный ты насос'
+guild-deposit-notsum: 'у тя печенек меньше чем ты ввел'
+guild-deposit-success: 'спасиба за вложенный капитал в {sum} печенек а теперь иди нахзуй отсюда бьлятиь'
+
+gc-argsNull: '/gc [сообщзнение]'
+gc-format: 'Гильдия > {guildRank} {player}: §f{msg}'
+
 guild-menu-info-title: 'Информация о гильдии'
 guild-menu-info-lore:
 - 'Имя: {guild}'
