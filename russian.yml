@@ -532,8 +532,18 @@ guild-disband-icon-no-title: 'атказаться'
 guild-disband-icon-no-lore:
 - 'нахуй'
 
+guild-kick-you: 'Вы не можете выгнать себя же'
+guild-kick-member: 'Вы должны быть лидерои или офицером'
+guild-kick-noter: 'Вы не можете кикнуть этого игрока, пока его не понизят до участника'
+guild-kick-guild: 'Гильдия > {player} выгнал {target} с гильдии'
+
 gc-argsNull: '/gc [сообщнение]'
 gc-format: 'Гильдия > {guildRank} {player}: §f{msg}'
+
+guild-tag-lenght: 'размер тега должен быть не меньше 3 и не больше 5 (не считая цвет)'
+guild-tag-rechange-money: 'На счете гильдии не достаточно 200,000 печенек для смены тега'
+guild-tag-money: 'На счете гильдии не достаточно 2,000,000 печенек для создание тега'
+guild-tag-success: 'Вы установили тег {tag}'
 
 guild-menu-info-title: 'Информация о гильдии'
 guild-menu-info-lore:
