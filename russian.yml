@@ -566,3 +566,5 @@ guild-menu-all-members-lore:
 navigator-speedrun-title: 'зачем нам этот режим а'
 navigator-speedrun-lore:
 - 'да хуй знает'
+guild-leave-leader: 'Лидер не может покинуть свою гильдию, используйте /guild disband'
+guild-leave-success: 'ура вы съебались из детдома'
