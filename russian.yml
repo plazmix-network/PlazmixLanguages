@@ -476,6 +476,7 @@ guild-help:
 - '/guild chat (/gc) [msg]'
 - '/guild menu'
 - '/guild delete [name]'
+- '/guild leave'
 
 guild-already: 'Вы уже состоите в гильдии'
 guild-not-already: 'блять пацанчик не в гильдии, просто бомж'
