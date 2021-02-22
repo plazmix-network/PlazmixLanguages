@@ -16,7 +16,7 @@ lobby-scoreboard-lines:
 - ''
 - '§7www.plazmix.net'
 
-lobby-item-info-title: '§aИнформация 7c[ПКМ]'
+lobby-item-info-title: '§aИнформация §7[ПКМ]'
 lobby-item-info-lore:
 - ''
 - '§aЖми, чтобы открыть меню.'
@@ -42,8 +42,8 @@ hider-hide-item-lore:
 hider-show-item-title: '§aПоказать игроков §7[ПКМ]'
 hider-show-item-lore:
 - '§7Нажмите, чтобы показать игроков'
-hider-hide: '§dpizda §8| §fВсе игроки скрыты'
-hider-show: '§dpizda §8| §fВсе игроки показаны'
+hider-hide: '§dLOBBY §8| §fВсе игроки скрыты'
+hider-show: '§dLOBBY §8| §fВсе игроки показаны'
 
 
 selecterservermenu-lore:
