@@ -567,3 +567,4 @@ guild-leave-leader: 'Лидер не может покинуть свою гил
 guild-leave-success: 'ура вы съебались из детдома'
 guild-create-pattern: 'Имя гильдии должно быть только латинскими буквами'
 cmd-msg-help: '/msg [Player] [msg]'
+cmd-msg-offline: 'пидорас оффлайн, пока тон оффлайн стоит задонатить и повыебываться'
