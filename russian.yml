@@ -566,3 +566,4 @@ guild-menu-all-members-lore:
 guild-leave-leader: 'Лидер не может покинуть свою гильдию, используйте /guild disband'
 guild-leave-success: 'ура вы съебались из детдома'
 guild-create-pattern: 'Имя гильдии должно быть только латинскими буквами'
+cmd-msg-help: '/msg [Player] [msg]'
