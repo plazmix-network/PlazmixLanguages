@@ -568,3 +568,48 @@ guild-leave-success: 'ура вы съебались из детдома'
 guild-create-pattern: 'Имя гильдии должно быть только латинскими буквами'
 cmd-msg-help: '/msg [Player] [msg]'
 cmd-msg-offline: 'пидорас оффлайн, пока тон оффлайн стоит задонатить и повыебываться'
+
+cmd-reply-none: 'У вас нету последних сообщений (хз как описать)'
+
+cmd-ignore-help:
+- '/ignore add [player]'
+- '/ignore remove [player]'
+- '/ignore list'
+
+cmd-ignore-lore:
+- ''
+- 'Нажми чтобы удалить пидора'
+
+cmd-ignore-offline: 'игрок оффлайн'
+cmd-ignore-already: 'уже в игноре'
+cmd-ignore: 'вы добавили {target} в игнор'
+
+cmd-ignore-remove-none: 'этот игрок не в игноре'
+cmd-ignore-remove: 'удалили {target} из игнора'
+
+cmd-msg-ignore: 'Данный игрок добавил вас в игнор'
+cmd-msg-ignore-to: 'Вы добавили этого игрока в чс, уберите его'
+
+cmd-msg-setting-friend: 'Вы не являетесь другом этого игрока, чтобы писать ему'
+cmd-msg-setting-all: 'Игрок отключил у себя сообщения'
+
+cmd-friend-setting-friend: 'Этот игрок отключил запросы в друзья'
+
+menu-settings-msg-paper-title: '§aЛичные Сообщения'
+menu-settings-msg-paper-lore:
+- ''
+- '§fВы можете изменить'
+- '§fкороче хз пиздец сматрите'
+- '§fвот твой статус:'
+- '{status}'
+
+menu-settings-friend-paper-title: '§aИнвайты в друзья'
+menu-settings-friend-paper-lore:
+- ''
+- '§fВы можете изменить'
+- '§fкороче хз пиздец сматрите'
+- '§fвот твой статус:'
+- '{status}'
+
+menu-settings-change-lore:
+- '§fНажмите, чтобы сменить'
