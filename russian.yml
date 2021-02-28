@@ -616,3 +616,16 @@ menu-settings-change-lore:
 
 cmd-msg-send: '§aЯ §7-> {target}§8: §f{msg}'
 cmd-msg-get: '{target} §7-> §aЯ§8: §f{msg}'
+
+party-cmd-help:
+- '/party create'
+- '/party invite'
+- '/party kick'
+- '/party leave'
+- '/party warp'
+- '/party chat'
+- '/party disband'
+
+party-disband: 'группа была расформирована'
+party-member-connect: 'Участник не может сам заходит ьв игры. ливните с пати'
+party-leave-broadcast: 'Группа > {name} покинул группу'
