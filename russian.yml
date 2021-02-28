@@ -613,3 +613,6 @@ menu-settings-friend-paper-lore:
 
 menu-settings-change-lore:
 - '§fНажмите, чтобы сменить'
+
+cmd-msg-send: '§aЯ §7-> {target}§8: §f{msg}'
+cmd-msg-get: '{target} §7-> §aЯ§8: §f{msg}'
