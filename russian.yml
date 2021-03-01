@@ -626,6 +626,42 @@ party-cmd-help:
 - '/party chat'
 - '/party disband'
 
-party-disband: 'группа была расформирована'
-party-member-connect: 'Участник не может сам заходит ьв игры. ливните с пати'
-party-leave-broadcast: 'Группа > {name} покинул группу'
+party-offline: 'игрок не в сити'
+party-not-leader: 'вы не лидер'
+party-not-party: 'у вас нету пати'
+
+party-create-already: 'вы уже создали пати'
+party-create: 'пати создано'
+
+party-invite-already-to: 'этот чел уже в пати'
+party-invite-already: 'вы уже отправили ему пати'
+party-invite-not: 'у вас нету запрооса от него'
+party-invite: 'ты инвайтнул {name}'
+party-invite-to:
+- 'инвайт от {target}'
+- '{accept}§aпринять'
+- '{deny}§cотклонить'
+
+party-accept-already: 'запрос невалидный уже'
+party-accept-pizda: 'ты уже в пати маладой'
+party-accept-not: 'у вас нету запроса от пидорпа'
+party-accept-time: 'время запроса истекло'
+party-accept-slots: 'слоты переполнены'
+party-accept: 'Группа > {name} присоединился к группе'
+
+party-deny: 'вы отменили запрос'
+
+party-kick-you: 'нинада себя кикать юзай /p disband'
+party-kick: 'Группа > {name} был кикнут из группы'
+
+party-leave-leader: 'используйте /p disband'
+party-leave: 'Группа > {name} покинул группу'
+
+party-disband: 'Группа была расформирована'
+party-kick-null: 'этот игрок не в вашем пати'
+
+party-chat-help: '/pc [msg]'
+
+party-chat-format: 'Группа > {name}: {msg}'
+
+party-send-not: 'вы не можете подключиться к серверу, пока вы не лидер группы, выйди из группы'
