@@ -635,7 +635,6 @@ party-create: 'пати создано'
 
 party-invite-already-to: 'этот чел уже в пати'
 party-invite-already: 'вы уже отправили ему пати'
-party-invite-not: 'у вас нету запрооса от него'
 party-invite: 'ты инвайтнул {name}'
 party-invite-to:
 - 'инвайт от {target}'
