@@ -664,3 +664,38 @@ party-chat-help: '/pc [msg]'
 party-chat-format: 'Группа > {name}: {msg}'
 
 party-send-not: 'вы не можете подключиться к серверу, пока вы не лидер группы, выйди из группы'
+
+dailyreward-status-yes: '§eнажмите, чтобы палучить'
+dailyreward-status-no: '§cосталось: §e{time}'
+
+dailyreward-collect: 'награда успешна палучена'
+
+dailyreward-one-name: 'Ежедневная награда для всех'
+dailyreward-one-lore:
+- 'ура маладес ты палучишь'
+- '2500 печенек'
+- '15 опыта'
+- ''
+- '{status}'
+
+dailyreward-two-name: 'Ежедневная награда для всих данатирав'
+dailyreward-two-lore:
+- 'ура маладес ты палучишь'
+- '5000 печенек'
+- '50 опыта'
+- ''
+- '{status}'
+
+dailyreward-three-name: 'Ежедневная награда для galaxy and cosmos'
+dailyreward-three-lore:
+- 'ура маладес ты палучишь'
+- '15,000 печенек'
+- '250 опыта'
+- ''
+- '{status}'
+
+dailyreward-flower-name: 'инфа а инфе'
+dailyreward-flower-lore:
+- '{cookie}'
+- ''
+- 'сматри иди на плузмикс.хуйс и забирай свою хуйню за 2к6500 мне на карту'
