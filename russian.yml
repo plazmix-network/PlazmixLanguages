@@ -667,6 +667,8 @@ party-send-not: 'вы не можете подключиться к сервер
 
 dailyreward-status-yes: '§eнажмите, чтобы палучить'
 dailyreward-status-no: '§cосталось: §e{time}'
+dailyreward-status-two-donate: 'У вас нету доната'
+dailyreward-status-three-donate: 'вы долэны быть galaxy или космас'
 
 dailyreward-collect: 'награда успешна палучена'
 
