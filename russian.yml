@@ -710,6 +710,10 @@ streams-stream-lore:
 - ''
 - 'Нажмите, чтобы зайти на стрим'
 
+stream-help:
+- '/stream add [link]'
+- '/stream remove/delete'
+
 stream-add-link: 'ссылка на стрим введена ниверно'
 stream-add-already: 'у вас уже добавлен стрим. удали его снаала'
 stream-add-filter: 'в имени стрима нету фильтрованого лова plazmix'
@@ -719,3 +723,6 @@ stream-add-broadcast:
 - '{title}'
 - '{hover}нажмите чтобы открыть стрым'
 - ''
+
+stream-remove-null: 'у тя нету стрима'
+stream-remove: 'стрим удален'
