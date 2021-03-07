@@ -710,6 +710,8 @@ streams-stream-lore:
 - ''
 - 'Нажмите, чтобы зайти на стрим'
 
+streams-click: 'нажми сюда чтобы открыть стрим'
+
 stream-help:
 - '/stream add [link]'
 - '/stream remove/delete'
