@@ -703,3 +703,19 @@ dailyreward-flower-lore:
 - 'сматри иди на плузмикс.хуйс и забирай свою хуйню за 2к6500 мне на карту'
 
 dailyreward-npc: '§aЕжедневные награды'
+
+streams-stream-lore:
+- ''
+- 'Стрымлер: {streamer}'
+- ''
+- 'Нажмите, чтобы зайти на стрим'
+
+stream-add-link: 'ссылка на стрим введена ниверно'
+stream-add-already: 'у вас уже добавлен стрим. удали его снаала'
+stream-add-filter: 'в имени стрима нету фильтрованого лова plazmix'
+stream-add-broadcast:
+- ''
+- '{streamer} запустил стрим:'
+- '{title}'
+- '{hover}нажмите чтобы открыть стрым'
+- ''
