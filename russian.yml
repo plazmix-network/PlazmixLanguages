@@ -413,7 +413,7 @@ api-key-recreate:
 - '§c{key} §7(кликните, чтобы скопировать)'
 
 friend-help:
-- '§fПомощь:'
+- '§dFRIENDS:'
 - ''
 - ' §7/f list'
 - ' §7/f add [игрок]'
@@ -433,8 +433,8 @@ friend-online:
 - ''
 - '§eНажмите, чтобы написать в ЛС'
 
-friend-send-msg: 'Нажмите, чтобы написать в лс {player}'
-friend-notonline: 'пендос не в сети'
+friend-send-msg: 'Нажмите, чтобы написать в лс {player}.'
+friend-notonline: 'Игрок не в сети.'
 
 friend-add-name: '§dFriends §8| §fВы не можете добавить себя в друзья.'
 friend-add-already: '§dFriends §8| §fВы уже отправили запрос игроку на дружбу.'
