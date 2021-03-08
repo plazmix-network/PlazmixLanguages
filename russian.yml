@@ -133,7 +133,7 @@ gadgetsmenu-gadgets-lore:
 - ''
 - '§7Разблокировано: §c{current}/{max}'
 - ''
-- '§eНажмите, чтобы посмотреть!'
+- '§eНажмите, чтобы посмотреть.'
 gadgetsmenu-particles-title: '§aЧастицы'
 gadgetsmenu-particles-lore:
 - '§7Создает красивые частицы,'
