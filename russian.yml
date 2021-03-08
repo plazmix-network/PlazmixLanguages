@@ -26,7 +26,7 @@ lobby-item-selectlobby-lore:
 - '§a '
 - '§aЖми, чтобы открыть меню.'
 
-lobby-item-navigator-title: '§aНавигатор §c[ПКМ]'
+lobby-item-navigator-title: '§aНавигатор §7[ПКМ]'
 lobby-item-navigator-lore:
 - ''
 - '§aЖми, чтобы открыть меню.'
