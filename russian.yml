@@ -42,11 +42,12 @@ hider-hide-item-lore:
 hider-show-item-title: '§aПоказать игроков §7[ПКМ]'
 hider-show-item-lore:
 - '§7Нажмите, чтобы показать игроков'
-hider-hide: '§dLOBBY §8| §fВсе игроки скрыты'
-hider-show: '§dLOBBY §8| §fВсе игроки показаны'
+hider-hide: '§dLOBBY §8| §fВсе игроки скрыты.'
+hider-show: '§dLOBBY §8| §fВсе игроки показаны.'
 
 
 selecterservermenu-lore:
+- ''
 - '§fСтатус: {status}'
 - '§fОнлайн: {online}'
 - ''
@@ -306,7 +307,7 @@ treasuremenu-shop-lore:
 - ''
 - '§eНажмите, чтобы открыть!'
 
-treasuremenu-info-title: '§aинфа'
+treasuremenu-info-title: '§aИнформация.'
 treasuremenu-info-lore:
 - '§7Количество печенек: §a{dust}'
 
