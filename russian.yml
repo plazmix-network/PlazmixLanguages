@@ -521,7 +521,7 @@ guild-promote-success: '§dGuilds §8| §fВы повысили {target} до §
 guild-promote-success-target: '§dGuilds §8| §fВас повысили до §aОфицера.'
 
 guild-demote-you: '§dGuilds §8| §fПонижать самого себя нельзя.'
-guild-demote-playermember: '§dGuilds §8| §fУчастников клана нельзя понижать.'
+guild-demote-playermember: '§dGuilds §8| §fУчастников клана нельзя понижать. '
 guild-demote-success: '§dGuilds §8| §fВы понизили {target} §fдо §7участника.'
 guild-demote-success-target: '§dGuilds §8| §fТебя понизили до §7участника'
 
