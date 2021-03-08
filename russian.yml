@@ -624,13 +624,13 @@ cmd-msg-get: '§dЛичные сообщения §8| {target} §7-> §aЯ§8: �
 party-cmd-help:
 - '§dParty:'
 - ''
-- '&7 /party create'
-- '&7 /party invite'
-- '&7 /party kick'
-- '&7 /party leave'
-- '&7 /party warp'
-- '&7 /party chat'
-- '&7 /party disband'
+- '§7 /party create'
+- '§7 /party invite'
+- '§7 /party kick'
+- '§7 /party leave'
+- '§7 /party warp'
+- '§7 /party chat'
+- '§7 /party disband'
 
 party-offline: '§dParty §8| §fИгрок оффлайн.'
 party-not-leader: '§dParty §8| §fВы не лидер.'
@@ -747,5 +747,5 @@ stream-add-broadcast:
 - '{hover}нажмите чтобы открыть стрым'
 - ''
 
-stream-remove-null: '§dСтримы §8| §fУ вас нету стрима.'
+stream-remove-null: '§dСтримы §8| §fУ вас нет стрима.'
 stream-remove: '§dСтримы §8| §fСтрим удалён.'
