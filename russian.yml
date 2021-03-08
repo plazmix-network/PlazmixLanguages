@@ -120,7 +120,7 @@ gadgetsmenu-morphs-lore:
 - ''
 - '§7Разблокировано: §c{current}/{max}'
 - ''
-- '§eНажмите, чтобы посмотреть!'
+- '§eНажмите, чтобы посмотреть.'
 gadgetsmenu-gadgets-title: '§aГаджеты'
 gadgetsmenu-gadgets-lore:
 - '§7Всегда хотели, чтобы ваши'
