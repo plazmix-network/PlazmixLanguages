@@ -670,7 +670,7 @@ party-chat-format: '§dParty §8| {name}: §f{msg}'
 
 party-send-not: '§dParty §8| §f§dParty §8| §fПодключаться к серверам может только лидер пати.'
 
-dailyreward-status-yes: '§eНажмите, чтобы палучить'
+dailyreward-status-yes: '§eНажмите, чтобы забрать награду.'
 dailyreward-status-no: '§cОсталось: §e{time}'
 dailyreward-status-two-donate: 'У вас нету доната'
 dailyreward-status-three-donate: '§dЕжедневные награды §8| §fВы долэны быть §5§lGALAXY или §9§lCOSMO§f, чтобы использовать это.'
