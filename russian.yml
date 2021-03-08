@@ -716,7 +716,7 @@ dailyreward-flower-name: '§eИнформация'
 dailyreward-flower-lore:
 - '{cookie}'
 - ''
-- '§fЧтобы забрать донатные награды, 
+- '§fЧтобы забрать донатные награды,'
 - '§fПриобретите его на сайте:  §dwww.plazmix.net '
 
 dailyreward-npc: '§aЕжедневные награды'
