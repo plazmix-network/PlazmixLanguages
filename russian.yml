@@ -468,7 +468,7 @@ guild-not-help:
 guild-help:
 - '§dGUILDS:'
 - ''
-- '§d❀ §f/guild promote [nick]'
+- '§d❀ §f/guild promote [nick] - повысить до офицера'
 - '§d❀ §f/guild demote [nick]'
 - '§d❀ §f/guild invite [nick]'
 - '§d❀ §f/guild accept [guild]'
