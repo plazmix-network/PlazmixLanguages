@@ -750,3 +750,32 @@ stream-add-broadcast:
 
 stream-remove-null: '§dСтримы §8| §fУ вас нет стрима.'
 stream-remove: '§dСтримы §8| §fСтрим удалён.'
+
+report-help: '/report player reason'
+report-you: 'ne report sebya'
+report-offline: 'daniy chel offline'
+report-max: 'prichina bolshe 16 symobls'
+report-count-max: 'u vas bolshe 3 reportov. shdi poka te rasmotryar'
+report-success: 'report accepted'
+report-moder:
+- ''
+- 'пидарасы пора пахать на родину'
+- 'репортит {reporter}'
+- 'на {target}'
+- 'с причиной {reason}'
+- ''
+
+reports-lore:
+- ''
+- 'reason: {reason}'
+- 'server: {server}'
+- ''
+- 'click to vzaimodeystvie'
+
+reports-teleport-title: 'тилипортироваться'
+reports-teleport-lore:
+- 'clicktotp'
+
+reports-delete-title: 'удалить рипорт'
+reports-delete-lore:
+- 'clicktodelete'
