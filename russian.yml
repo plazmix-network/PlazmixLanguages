@@ -779,3 +779,6 @@ reports-teleport-lore:
 reports-delete-title: 'удалить рипорт'
 reports-delete-lore:
 - 'clicktodelete'
+
+ban-help: '/ban player time reason'
+ban-offline: 'данный чел офлайн'
