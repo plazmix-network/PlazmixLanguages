@@ -792,3 +792,31 @@ ban-formatter:
 - 'Разбан через: {time}'
 - ''
 - 'купи разбан на соси хуй точка хуй'
+
+mute-already: 'у чела уже есть мут'
+mute-alert: 'modchat: {admin} muted {target} for {reason} na {time}'
+mute-formatter:
+- 'ti v mute chel'
+- 'ot {admin}'
+- 'po {reason}'
+- 'na {time}'
+
+kick=alert: 'modchat: {admin} kicked {target} for {reason}'
+kick-formatter:
+- 'ты в кике чел'
+- '{admin}'
+- '{reason}'
+
+ban-already: 'у чела уже есть бан'
+ban-alert: 'modchat: {admin} banned {target} for {reason} na {time}'
+ban-formatter:
+- 'ты в бане чел'
+- '{admin}'
+- '{reason}'
+- '{time}'
+
+unban-size: 'у чела нету банов'
+unban-alert: 'modchat: {admin} unbanned {target}'
+
+unmute-size: 'у чела нету мутов'
+unmute-alert: 'modchat: {admin} unmute {target}'
