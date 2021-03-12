@@ -783,3 +783,12 @@ reports-delete-lore:
 ban-help: '/ban player time reason'
 ban-offline: 'данный чел офлайн'
 ban-regex: 'время введено неверно, пример: 3д, 4d, 5m, 5м, 6ч, 6h, 7s, 7с'
+
+ban-alert: 'МОД-ЧАТ >> {admin} заблокировал {target} по причине {reason} на {time}'
+ban-formatter:
+- 'вы были забанины'
+- 'админ: {admin}'
+- 'причина: {reason}'
+- 'Разбан через: {time}'
+- ''
+- 'купи разбан на соси хуй точка хуй'
