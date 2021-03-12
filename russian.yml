@@ -783,6 +783,8 @@ reports-delete-lore:
 ban-help: '/ban player time reason'
 mute-help: '/mute player time reason'
 kick-help: '/kick player reason'
+unban-help: '/unban player'
+unmute-help: '/unmute player'
 ban-offline: 'данный чел офлайн'
 ban-regex: 'время введено неверно, пример: 3д, 4d, 5m, 5м, 6ч, 6h, 7s, 7с'
 
