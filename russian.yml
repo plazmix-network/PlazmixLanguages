@@ -825,3 +825,37 @@ unban-alert: 'modchat: {admin} unbanned {target}'
 
 unmute-size: 'у чела нету мутов'
 unmute-alert: 'modchat: {admin} unmute {target}'
+
+history-player: 'такого чела не сущесвтует'
+
+history-choose-mute-title: 'муты'
+history-choose-mute-lore:
+- ''
+- 'клик и там муты'
+
+history-choose-kick-title: 'кики'
+history-choose-kick-lore:
+- ''
+- 'клик и там кики'
+
+history-choose-ban-title: 'баны'
+history-choose-ban-lore:
+- ''
+- 'клик и там баны'
+
+history-form-mute-lore:
+- 'Выдал: {admin}'
+- 'Выдано в: {time}'
+- 'Выдано на {timeget}'
+- 'причина: {reason}'
+
+history-form-kick-lore:
+- 'Выдал: {admin}'
+- 'Выдано в: {time}'
+- 'причина: {reason}'
+
+history-form-ban-lore:
+- 'Выдал: {admin}'
+- 'Выдано в: {time}'
+- 'Выдано на {timeget}'
+- 'причина: {reason}'
