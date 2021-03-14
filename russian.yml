@@ -781,7 +781,7 @@ reports-delete-lore:
 - 'clicktodelete'
 
 donatechat-help: '/dc msg'
-donatechat-format: 'ДОНАТ-ЧАТ >> {player}: {msg}'
+donatechat-format: '§dДонат чат §8| {player}§f: {msg}'
 
 staffchat-help: '/sc msg'
-staffchat-format: 'СТАФФ-ЧАТ >> {player}: {msg}'
+staffchat-format: '§dСтафф чат §8| {player}§f: {msg}'
