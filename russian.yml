@@ -413,7 +413,7 @@ api-key-recreate:
 - '§c{key} §7(кликните, чтобы скопировать)'
 
 friend-help:
-- '§dFRIENDS:'
+- '§dFRIENDS §8| §fПомощь:'
 - ''
 - '§d ✌ §f/f list - список друзей.'
 - '§d ✌ §f/f add [игрок] - добавить друга.'
@@ -466,7 +466,7 @@ guild-not-help:
 - '/guild create [name]'
 
 guild-help:
-- '§dGUILDS:'
+- '§dGUILDS §8| §fПомощь:'
 - ''
 - ' §d❀ §f/guild promote §c[НИК] §f- повысить участника до офицера.'
 - ' §d❀ §f/guild demote §c[НИК] §f- понизить участника.'
@@ -622,7 +622,7 @@ cmd-msg-send: '§dЛичные сообщения §8| §aЯ §7-> {target}§8: 
 cmd-msg-get: '§dЛичные сообщения §8| {target} §7-> §aЯ§8: §f{msg}'
 
 party-cmd-help:
-- '§dParty:'
+- '§dParty §8| §fПомощь:'
 - ''
 - '§d ✷ §f/party create - создать пати.'
 - '§d ✷ §f/party warp - переместить всех на один сервер.'
