@@ -803,7 +803,3 @@ sw-scoreboard-lines:
 - '§fПлазма: §d{plazma}'
 - ''
 - '§7www.plazmix.net'
-
-sw-lobby-shop-item-title: 'Магазин'
-sw-lobby-shop-item-lore:
-- 'нажми чтобы аткрыть'
