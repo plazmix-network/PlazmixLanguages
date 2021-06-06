@@ -438,7 +438,7 @@ friend-notonline: 'Игрок не в сети.'
 
 friend-add-name: '§dFriends §8| §fВы не можете добавить себя в друзья.'
 friend-add-already: '§dFriends §8| §fВы уже отправили запрос игроку на дружбу.'
-friend-add-send: '§dFriends §8| §fВы отправили запрос дружбу {player}.'
+friend-add-send: '§dFriends §8| §fВы отправили запрос в друзья {player}.'
 friend-add-send-accepter:
 - '               §dFRIENDS'
 - '{inviter} §fхочет добавить вас в друзья.'             
