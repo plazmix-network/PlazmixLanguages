@@ -655,17 +655,17 @@ party-invite-to:
 
 party-accept-already: '§dParty §8| §fЗапрос не найден.'
 party-accept-pizda: '§dParty §8| §fВы уже находитесь в компании.'
-party-accept-not: '§dParty §8| §fУ вас нету запроса от этого игрока.'
-party-accept-time: '§dParty §8| §fВремя запроса истекло.'
+party-accept-not: '§dParty §8| §fДанный игрок не приглашал вас в компанию.'
+party-accept-time: '§dParty §8| §fВы не успели принять приглашение в компанию.'
 party-accept-slots: '§dParty §8| §fСлоты в компании переполнены.'
-party-accept: '§dParty §8| {name} §fприсоединился к компании.'
+party-accept: '§dParty §8| {name} §eприсоединился к компании.'
 
 party-deny: '§dParty §8| §fВы отменили запрос'
 
 party-kick-you: '§dParty §8| §fСебя кикнуть нельзя, ипсользуйте: §a/p disband'
 party-kick: '§dParty §8| §f{name} §fбыл кикнут из компании.'
 
-party-leave-leader: '§dParty §8| §fИспользуйте: §a/p disband'
+party-leave-leader: '§dParty §8| §fВы не можете удалить свою компанию, используйте: §a/p disband'
 party-leave: '§dParty §8| {name} §fпокинул компанию.'
 
 party-disband: '§dParty §8| §fКомпания была расформированна.'
