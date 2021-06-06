@@ -449,7 +449,7 @@ friend-add-send-accepter:
 friend-accept-not: '§dFriends §8| §fУ вас нету запроса дружбы от данного игрока.'
 friend-accept-time: '§dFriends §8| §fВремя на запрос дружбы истек.'
 friend-accept-success: '§dFriends §8| §fВы приняли запрос дружбы от {player}.'
-friend-accept-success-inviter: '§dFriends §8| {player} §fпринял ваш запрос в друзья.'
+friend-accept-success-inviter: '§dFriends §8| {player} §fпринял ваш запрос на дружбу.'
 
 friend-manyfriends: '§dFriends §8| §fВы достигли лимита друзей, ваш лимит: §c{limit}'
 friend-manyfriends-target: '§dFriends §8| §fУ данного игрока достигнут лимит друзей.'
