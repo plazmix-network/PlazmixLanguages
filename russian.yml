@@ -626,7 +626,7 @@ party-cmd-help:
 - ''
 - '§d ✷ §f/party create - создать компанию.'
 - '§d ✷ §f/party warp - переместить всех на один сервер.'
-- '§d ✷ §f/party disband - удалить пати.'
+- '§d ✷ §f/party disband - удалить компанию.'
 - '§d ✷ §f/party leave - покинуть пати.'
 - '§d ✷ §f/party disband - удалить пати.'
 - '§d ✷ §f/party invite [игрок] - пригласить игрока в пати.'
