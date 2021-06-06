@@ -633,7 +633,7 @@ party-cmd-help:
 - '§d ✷ §f/party kick [игрок] - выгнать игрока с пати.'
 - '§d ✷ §f/pc [сообщение] - написать в чат пати.'
 
-party-offline: '§dParty §8| §fДанный игрок §cоффлайн.'
+party-offline: '§dParty §8| §fВ данный момент игрок находится §c§lоффлайн.'
 party-not-leader: '§dParty §8| §fВы не лидер.'
 party-not-party: '§dParty §8| §fУ вас нет компании.'
 
