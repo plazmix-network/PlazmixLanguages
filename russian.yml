@@ -668,7 +668,7 @@ party-kick: '§dParty §8| §f{name} §fбыл кикнут из пати.'
 party-leave-leader: '§dParty §8| §fИспользуйте: §a/p disband'
 party-leave: '§dParty §8| {name} §fпокинул пати.'
 
-party-disband: '§dParty §8| §fПати было расформированно.'
+party-disband: '§dParty §8| §fКомпания была расформированна.'
 party-kick-null: '§dParty §8| §fЭтот игрок не в вашем пати.'
 
 party-chat-help: '/pc [msg]'
