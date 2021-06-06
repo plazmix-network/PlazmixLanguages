@@ -640,7 +640,7 @@ party-not-party: '§dParty §8| §fУ вас нет пати.'
 party-create-already: '§dParty §8| §fВы уже создали компанию.'
 party-create: '§dParty §8| §fВы §aуспешно §fсоздали команию.'
 
-party-invite-already-to: '§dParty §8| §fЭтот игрок уже в пати.'
+party-invite-already-to: '§dParty §8| §fЭтот игрок уже находится в пати.'
 party-invite-already: '§dParty §8| §fПриглашение уже отправлено, подождите.'
 party-invite: '§dParty §8| §fВы пригласили: {name}'
 party-invite-to:
