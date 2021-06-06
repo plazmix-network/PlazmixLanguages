@@ -666,7 +666,7 @@ party-kick-you: '§dParty §8| §fСебя кикнуть нельзя, ипсо
 party-kick: '§dParty §8| §f{name} §fбыл кикнут из компании.'
 
 party-leave-leader: '§dParty §8| §fВы не можете удалить свою компанию, используйте: §a/p disband'
-party-leave: '§dParty §8| {name} §fпокинул компанию.'
+party-leave: '§dParty §8| {name} §eпокинул компанию.'
 
 party-disband: '§dParty §8| §fКомпания была расформированна.'
 party-kick-null: '§dParty §8| §fЭтот игрок не в вашей компании.'
