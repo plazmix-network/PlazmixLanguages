@@ -658,7 +658,7 @@ party-accept-pizda: '§dParty §8| §fВы уже находитесь в ком
 party-accept-not: '§dParty §8| §fУ вас нету запроса от этого игрока.'
 party-accept-time: '§dParty §8| §fВремя запроса истекло.'
 party-accept-slots: '§dParty §8| §fСлоты в компании переполнены.'
-party-accept: '§dParty §8| {name} §fприсоединился к компании'
+party-accept: '§dParty §8| {name} §fприсоединился к компании.'
 
 party-deny: '§dParty §8| §fВы отменили запрос'
 
