@@ -633,9 +633,9 @@ party-cmd-help:
 - '§d ✷ §f/party kick [игрок] - выгнать игрока с пати.'
 - '§d ✷ §f/pc [сообщение] - написать в чат пати.'
 
-party-offline: '§dParty §8| §fИгрок оффлайн.'
+party-offline: '§dParty §8| §fДанный игрок §cоффлайн.'
 party-not-leader: '§dParty §8| §fВы не лидер.'
-party-not-party: '§dParty §8| §fУ вас нет пати.'
+party-not-party: '§dParty §8| §fУ вас нет компании.'
 
 party-create-already: '§dParty §8| §fВы уже создали компанию.'
 party-create: '§dParty §8| §fВы §aуспешно §fсоздали команию.'
@@ -654,22 +654,22 @@ party-invite-to:
 - '§c------------------------------------------------------- '
 
 party-accept-already: '§dParty §8| §fЗапрос не найден.'
-party-accept-pizda: '§dParty §8| §fВы уже находитесь в пати.'
+party-accept-pizda: '§dParty §8| §fВы уже находитесь в компании.'
 party-accept-not: '§dParty §8| §fУ вас нету запроса от этого игрока.'
 party-accept-time: '§dParty §8| §fВремя запроса истекло.'
-party-accept-slots: '§dParty §8| §fСлоты переполнены.'
-party-accept: '§dParty §8| {name} §fприсоединился к группе'
+party-accept-slots: '§dParty §8| §fСлоты в компании переполнены.'
+party-accept: '§dParty §8| {name} §fприсоединился к компании'
 
 party-deny: '§dParty §8| §fВы отменили запрос'
 
 party-kick-you: '§dParty §8| §fСебя кикнуть нельзя, ипсользуйте: §a/p disband'
-party-kick: '§dParty §8| §f{name} §fбыл кикнут из пати.'
+party-kick: '§dParty §8| §f{name} §fбыл кикнут из компании.'
 
 party-leave-leader: '§dParty §8| §fИспользуйте: §a/p disband'
-party-leave: '§dParty §8| {name} §fпокинул пати.'
+party-leave: '§dParty §8| {name} §fпокинул компанию.'
 
 party-disband: '§dParty §8| §fКомпания была расформированна.'
-party-kick-null: '§dParty §8| §fЭтот игрок не в вашем пати.'
+party-kick-null: '§dParty §8| §fЭтот игрок не в вашей компании.'
 
 party-chat-help: '/pc [msg]'
 
