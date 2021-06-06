@@ -638,7 +638,7 @@ party-not-leader: '§dParty §8| §fВы не лидер.'
 party-not-party: '§dParty §8| §fУ вас нет пати.'
 
 party-create-already: '§dParty §8| §fВы уже создали пати.'
-party-create: '§dParty §8| §aВы успешно оздали команию.'
+party-create: '§dParty §8| §fВы §aуспешно §fсоздали команию.'
 
 party-invite-already-to: '§dParty §8| §fЭтот игрок уже в пати.'
 party-invite-already: '§dParty §8| §fПриглашение уже отправлено, подождите.'
