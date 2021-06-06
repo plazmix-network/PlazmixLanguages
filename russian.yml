@@ -637,7 +637,7 @@ party-offline: '§dParty §8| §fИгрок оффлайн.'
 party-not-leader: '§dParty §8| §fВы не лидер.'
 party-not-party: '§dParty §8| §fУ вас нет пати.'
 
-party-create-already: '§dParty §8| §fВы уже создали пати.'
+party-create-already: '§dParty §8| §fВы уже создали компанию.'
 party-create: '§dParty §8| §fВы §aуспешно §fсоздали команию.'
 
 party-invite-already-to: '§dParty §8| §fЭтот игрок уже в пати.'
