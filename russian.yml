@@ -792,6 +792,37 @@ donatechat-format: '§dДонат чат §8| {player}§f: {msg}'
 staffchat-help: '/sc msg'
 staffchat-format: '§dСтафф чат §8| {player}§f: {msg}'
 
+punishment_broadcast_message: '§dPunishment §7| %who_set% §f%type% %who_got% §fна §c%to% §fпо причине §c%reason%'
+punishment_broadcast_unMessage: '§dPunishment §7| %who_set% §f%type% %who_got%'
+punishment_broadcast_message_kick: '§dPunishment §7| %who_set% §fкикнул %who_got% §fпо причине §c%reason%'
+
+punishment_kick:
+- '§d§lPLAZMIX NETWORK'
+- '§f'
+- '§fВы были кикнуты игроком: %who_set%.'
+- '§fПричина: §c%reason%'
+- '§f'
+- '§fСчитаете что данный игрок не прав?'
+- '§fВы можете подать жалобу на нашем форуме:'
+- '§dforum.plazmix.net'
+
+punishment_ban_kicked:
+- '§d§lPLAZMIX NETWORK'
+- '§cВаш игровой аккаунт был заблокирован.
+- ''
+- '§fСрок: §c%to%'
+- '§fВыдал наказание: %who_set%'
+- '§fПричина: §c%reason%'
+- ''
+- '§fКупить разбан можно на нашем сайте:'
+- '§dwww.plazmix.net'
+
+punishment_you_got_muted: '§d§lMUTE §8| §fВас замутил %who_set% §fна §c%to% §fпо причине §c%reason%'
+punishment_you_got_muted_afk: '§d§lMUTE §8| §fВас замутил %who_set% §fпо причине §c%reason%, §fмут кончится через §c%to% '
+punishment_mute_you_got_unmuted: '§d§lMUTE §8| §fВаш мут кончился, удачной игры!'
+punishment_player_not_registered: '§dPunishment §7| §cОшибка! §fДанный игрок не зарегистрирован.'
+punishment_contains_blocked_symbol: '§dPunishment §7| §cОшибка! §fПричина наказания содержит запрещённый символ§c(~).'
+
 sw-scoreboard-title: '§d§lPLAZMIX'
 sw-scoreboard-lines:
 - ''
