@@ -808,7 +808,7 @@ punishment_kick:
 
 punishment_ban_kicked:
 - '§d§lPLAZMIX NETWORK'
-- '§cВаш игровой аккаунт был заблокирован.
+- '§cВаш игровой аккаунт был заблокирован.'
 - ''
 - '§fСрок: §c%to%'
 - '§fВыдал наказание: %who_set%'
