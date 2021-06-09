@@ -847,3 +847,5 @@ navigator-anarchy-lore:
 - '§fОнлайн большой: {online}'
 - ' '
 - '§eДавай играть ебать'
+
+skywars-cage-preview-actionbar: '§fПросмотр клетки §a{cage}'
