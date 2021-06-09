@@ -74,14 +74,6 @@ menu-arrow-next-lore: ' §7Перейти на следующую страниц
 menu-arrow-nback-title: '§aПредыдущая страница'
 menu-arrow-nback-lore: ' §7Вернуться на предыдущую страницу'
 
-navigator-grief-title: '§d§lANARCHY §c§l[1.12.2]'
-navigator-grief-lore:
-- ''
-- '§fРежим крутой'
-- '§fОнлайн большой: {online}'
-- ' '
-- '§eДавай играть ебать'
-
 gadgetsmenu-title: 'Гаджеты'
 
 gadgetsmenu-cancel-title: '§aОчистить текущие гаджеты'
@@ -839,3 +831,19 @@ sw-scoreboard-lines:
 - '§fПлазма: §d{plazma}'
 - ''
 - '§7www.plazmix.net'
+
+navigator-skywars-title: '§d§lSKYWARS'
+navigator-skywars-lore:
+- ''
+- '§fРежим крутой'
+- '§fОнлайн большой: {online}'
+- ' '
+- '§eДавай играть ебать'
+
+navigator-anarchy-title: '§d§lANARCHY §c§l[1.12.2]'
+navigator-anarchy-lore:
+- ''
+- '§fРежим крутой'
+- '§fОнлайн большой: {online}'
+- ' '
+- '§eДавай играть ебать'
